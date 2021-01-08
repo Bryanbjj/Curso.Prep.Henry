@@ -1,0 +1,4 @@
+for: es repetir una tarea en las veces que queramos, como si fuera una caligrafia donde podemos ir contando o agregando digitos.
+&&: es cuando queremos que mas de una condicion de se cumpla para poder ejecutar alguna tarea.
+|| o :, representa que algunas de las condicones una debe cumplirse, ejemplo: si esta o la otra es true solicitar password.
+!: negado
