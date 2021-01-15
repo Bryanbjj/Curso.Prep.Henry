@@ -1,0 +1,5 @@
+Objetos: es un contenedor de datos los cuales se almacenan asignando un nombres que seria la  clave para accesar a ese dato o funcion que puede estar contenido como valor dentro de la clave, pudiendo almacenar infinidad de claves con diferentes o similares valores.
+Propiedades: se le concen como propiedades a las claves que se encuentra dentro de un objeto.
+Métodos: son las funciones que se encuentra asignadas a una propiedad de  un objeto.
+Bucle for…in; podemos recorrer las propiedades de un objeto usando el bucle for in.
+Notación de puntos vs notación de corchetes: podemos invocar, acceder, modificar y agregar propiedades al objeto usando notacion de punto objeto.clave o objeto.[clave]  con la diferencia que por medio de [] podemos invocar funciones declaradas que apunten al objeto.
