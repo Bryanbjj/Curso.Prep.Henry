@@ -1,0 +1,2 @@
+prototype: por medio de este metodo podemos asignar o agregar funciones a una clase ya creada.
+Constructors (de Clases): el contructor de clase le da forma  la clase con los objetos que este contiene.
