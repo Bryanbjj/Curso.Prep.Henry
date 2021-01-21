@@ -1,0 +1,1 @@
+Funciones Callback: es la manera en la que podemos llamar a una funcion dentro de otras funciones, podemos pasar parametros de una funcion a otras funciones.
