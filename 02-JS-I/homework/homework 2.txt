@@ -1,0 +1,6 @@
+
+Variables: almacena cualquier tipo de datos y funciones para ser invocados posteriormente.
+Strings: cadena de caracteres se identifican con las comillas  "" o ''.
+Funciones (argumentos, return): funciones son acciones o ejecuciones , argumentos son los asignados a una funcion para su procesamiento, return regresa el valor o dato  solicitado.
+Declaraciones if: es una expresion condicional en la cual determinara una condicion que si se cumple regresara verdadero de lo contratio regresa falso.
+Valores booleanos (true, false): verdadero y falso son los 2 valores booleanos que son devueltos cuando usamos operadores de comparacion y que determinan  hasta donde debe ejecutarse una funcion 

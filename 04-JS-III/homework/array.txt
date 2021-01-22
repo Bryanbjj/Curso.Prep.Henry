@@ -1,1 +1,1 @@
-array: es un arreglo que contiene diversidad de datos y funciones las cuales pueden ser  llamadas y modificadas.
+array: es un arreglo que contiene diversidad de datos y funciones las cuales pueden ser  llamadas y modificadas por medio de su indice.
